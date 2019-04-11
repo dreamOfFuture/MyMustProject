@@ -28,6 +28,7 @@ public class fragmet_web extends Fragment implements ViewCallBack, ActivityCallB
     private static  Bundle  webViewState;
     private ProgressBar progressBar;
     public static String url ="https://www.baidu.com" ;
+    private static final String hideTitle="百度一下,你就知道";
 
     public fragmet_web() {
         // Required empty public constructor
@@ -83,6 +84,7 @@ public class fragmet_web extends Fragment implements ViewCallBack, ActivityCallB
 
     @Override
     public void viewCallTitleChange(String title) {
+        if (!title.equals(hideTitle))
         fr.titleChange(title);
     }
 

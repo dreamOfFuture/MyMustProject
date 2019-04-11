@@ -5,6 +5,8 @@ import android.graphics.BitmapFactory;
 import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 
+import com.miki.intentcore.modemanger.AnaModel;
+
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.HttpURLConnection;
@@ -65,18 +67,45 @@ public class Utils {
     }
 
     public static String catUrl(String url) {
-        String reg = "/[0-9]+.html";
-        return url.replaceAll(reg, "/");
+        String reg = null;
+        String end = null;
+        switch (AnaModel.anaModel) {
+            case 0:
+            case 1:
+                reg = "/[0-9]+.html";
+                end = url.replaceAll(reg, "/");
+                break;
+            default:
+                break;
+        }
+        return end;
     }
 
     public static String xmlChangeTxt(String text) {
+        String reg2 = null;
+        String reg3 = null;
+        String reg5 = "न्दी"; //在没有定义的时候不想让他被匹配到
+        String reg4 = "</div>";
         String reg1 = "&nbsp;";
-        String reg2 = "<br /><br />";
-        String reg3 ="<div class=\"txt\" id=\"txt\">";
-        String reg4 ="</div>";
+        switch (AnaModel.anaModel) {
+            case 0:
+                reg3 = "<div class=\"txt\" id=\"txt\">";
+                reg2 = "<br /><br />";
+                break;
+            case 1:
+                reg3 = "<div id=\"content\">";
+                reg2 = "<br />";
+                reg5 = "(?s)<p>.+</p>";
+                break;
+            default:
+                break;
+
+        }
         String str1 = text.replaceAll(reg1, "").
                 replaceAll(reg2, "\r\n\t\t").
-                replaceAll(reg3,"\t\t").replaceAll(reg4,"");
+                replaceAll(reg3, "\t\t").
+                replaceAll(reg4, "").
+                replaceAll(reg5,"");
         return str1;
     }
 }

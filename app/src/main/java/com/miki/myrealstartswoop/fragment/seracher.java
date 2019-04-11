@@ -9,6 +9,7 @@ import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.widget.GridLayoutManager;
+import android.text.method.ScrollingMovementMethod;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -32,22 +33,15 @@ import java.util.List;
 
 public class seracher extends Fragment implements ActivityCallBack {
     FragmentCallback fr;
-    BookListBean listBean;
     Activity activity;
     TextView bookName;
     TextView booAuthor;
     ImageView bookIcon;
     TextView bookInfo;
     ListView listView;
-    ImageButton iSort;
-    ImageButton iCollect;
-    ImageButton serachTextGo;
-    ImageButton serachNumberGo;
-    TextView iShowSort;
-    EditText serachText;  //by used into listen
-    EditText serachNumber;//by used into listen
     AlertDialog alertDialog;
     GridLayoutManager manager;
+    ListViewAdapter adpter;
 
     // TODO: Rename and change types of parameters
     public seracher() {
@@ -78,12 +72,8 @@ public class seracher extends Fragment implements ActivityCallBack {
         booAuthor = view.findViewById(R.id.author_name);
         bookIcon = view.findViewById(R.id.book_icon);
         bookInfo = view.findViewById(R.id.book_info);
+        bookInfo.setMovementMethod(ScrollingMovementMethod.getInstance());
         listView = view.findViewById(R.id.book_list_display);
-        iSort = view.findViewById(R.id.book_list_icon);
-        iCollect = view.findViewById(R.id.book_collect);
-        serachNumberGo = view.findViewById(R.id.list_item_number_go);
-        serachTextGo = view.findViewById(R.id.list_item_text_search_go);
-        iShowSort = view.findViewById(R.id.book_list_info);
         return view;
     }
 
@@ -147,11 +137,25 @@ public class seracher extends Fragment implements ActivityCallBack {
         if (ItemListDiata.book_author != null) {
             booAuthor.setText(ItemListDiata.book_author);
         }
+        if (adpter ==null && ItemListDiata.book_name!=null){
+            adpter =ListViewAdapter.getList(activity);
+            listView.setAdapter(adpter);
+            listView.setTextFilterEnabled(true);
+            adpter.setOnItem(listView);
+            adpter.notifyDataSetChanged();
+            View view = getView();
+            if (view == null) {
+                view = LayoutInflater.from(activity).inflate(R.layout.fragment_seracher, null);
+            }
+           SearchFragmentListen.setListen(adpter,view);
+        }else if (adpter!=null){
+            adpter.notifyDataSetChanged();
+        }
     }
 
     @Override
     public void AsyThreaData(Handler handler) {
-        final ListViewAdapter adpter = ListViewAdapter.getList(activity);
+       adpter= ListViewAdapter.getList(activity);
         handler.post(new Runnable() {
             @Override
             public void run() {
@@ -163,18 +167,8 @@ public class seracher extends Fragment implements ActivityCallBack {
                 if (view == null) {
                     view = LayoutInflater.from(activity).inflate(R.layout.fragment_seracher, null);
                 }
-                viewSetListen(SearchFragmentListen.getListen(adpter, view));
+                SearchFragmentListen.setListen(adpter,view);
             }
         });
-    }
-
-    private void viewSetListen(SearchFragmentListen listen) {
-        if (listen != null) {
-            serachNumberGo.setOnClickListener(listen);
-            serachTextGo.setOnClickListener(listen);
-            iSort.setOnClickListener(listen);
-            iCollect.setOnClickListener(listen);
-            iShowSort.setOnClickListener(listen);
-        }
     }
 }

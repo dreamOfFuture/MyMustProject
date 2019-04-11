@@ -12,6 +12,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.ImageButton;
+import android.widget.Toast;
 
 import com.miki.intentcore.Bean.BookListBean;
 import com.miki.intentcore.ConnManager;
@@ -203,7 +204,7 @@ public class LoginApp extends AppCompatActivity implements View.OnClickListener,
 
     @Override
     public void conFail() {
-
+        Toast.makeText(this,"任务忙，请稍后",Toast.LENGTH_SHORT).show();
     }
 
     @Override
@@ -262,8 +263,8 @@ public class LoginApp extends AppCompatActivity implements View.OnClickListener,
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
                         ActivityCallBack callBack = (ActivityCallBack) list.get(1);
-                        callBack.onWebDate(bean);
                         callBack.AsyThreaData(handler);
+                        // callBack.onWebDate(bean);
                         viewPager.setCurrentItem(1);
                     }
                 }).setNegativeButton(R.string.no, null).show();

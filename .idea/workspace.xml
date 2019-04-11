@@ -11,7 +11,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3781e400-351e-4b6f-b752-1ce6739c029e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/MyMustProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/jarAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskJars.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyMustProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyMustProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/LoginApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/LoginApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/fragment/book_collect.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/fragment/book_collect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/fragment/fragmet_web.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/fragment/fragmet_web.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/fragment/seracher.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/fragment/seracher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/listen/SearchFragmentListen.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/listen/SearchFragmentListen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/collect_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/collect_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_seracher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_seracher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intentcore/intentcore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/intentcore/intentcore.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/ConWeb.java" beforeDir="false" afterPath="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/ConWeb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/ConnManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/ConnManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/modemanger/AnaModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/modemanger/AnaModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/modemanger/StartAna.java" beforeDir="false" afterPath="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/modemanger/StartAna.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/modemanger/StartReadingAna.java" beforeDir="false" afterPath="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/modemanger/StartReadingAna.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/utils/Utils.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,39 +90,154 @@
     <session id="768425574">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="class" value="1" />
           <entry key="gradle" value="1" />
+          <entry key="java" value="143" />
+          <entry key="xml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CLASS" value="1" />
           <entry key="Groovy" value="1" />
+          <entry key="JAVA" value="143" />
+          <entry key="XML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gradle" value="1" />
+          <entry key="java" value="1832" />
+          <entry key="xml" value="95" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="1" />
+          <entry key="JAVA" value="1831" />
+          <entry key="RegExp" value="1" />
+          <entry key="XML" value="95" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/intentcore/build.gradle">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/fragment/seracher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="201">
+              <caret line="150" column="30" selection-start-line="150" selection-start-column="30" selection-end-line="150" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/LoginApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2425">
+              <caret line="131" column="14" selection-start-line="131" selection-start-column="14" selection-end-line="131" selection-end-column="14" />
+              <folding>
+                <element signature="e#5042#5043#0" expanded="true" />
+                <element signature="e#5088#5089#0" expanded="true" />
+                <element signature="e#6140#6141#0" expanded="true" />
+                <element signature="e#6160#6161#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/ConWeb.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="430">
+              <caret line="75" column="36" selection-start-line="75" selection-start-column="36" selection-end-line="75" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/ConnManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="70" column="12" lean-forward="true" selection-start-line="70" selection-start-column="12" selection-end-line="70" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/modemanger/AnaModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/ReadingConWeb.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+              <folding>
+                <element signature="e#441#442#0" expanded="true" />
+                <element signature="e#483#484#0" expanded="true" />
+                <element signature="e#1190#1191#0" expanded="true" />
+                <element signature="e#1237#1238#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/ReadingManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="44" column="26" lean-forward="true" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
+              <folding>
+                <element signature="e#795#796#0" expanded="true" />
+                <element signature="e#862#863#0" expanded="true" />
+                <element signature="e#1274#1275#0" expanded="true" />
+                <element signature="e#1314#1315#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/ReadingActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="50" column="41" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/listen/SearchFragmentListen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="104" selection-start-line="104" selection-end-line="104" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://E:/AndroidStudioSDK/sources/android-28/android/database/AbstractWindowedCursor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
         </entry>
@@ -107,12 +257,10 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>reload</find>
-      <find>settitle</find>
       <find>is</find>
       <find>FragmentCallback</find>
       <find>moveToNext</find>
       <find>tb_collect_book</find>
-      <find>onWebDate</find>
       <find>creatFlay</find>
       <find>transData</find>
       <find>book_collect_title</find>
@@ -121,6 +269,15 @@
       <find>url</find>
       <find>conItem</find>
       <find>SystemProperties</find>
+      <find>setonc</find>
+      <find>book_collect_sort</find>
+      <find>onweb</find>
+      <find>AsyThreaData</find>
+      <find>onWebDate</find>
+      <find>needDataUpdate</find>
+      <find>titleChange</find>
+      <find>settitle</find>
+      <find>setOnClickListener</find>
     </findStrings>
   </component>
   <component name="GenerateSignedApkSettings">
@@ -3424,14 +3581,10 @@
         <option value="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/Bean/StartAna.java" />
         <option value="$PROJECT_DIR$/intentcore/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/viewmanger/ViewMangerBase.java" />
-        <option value="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/ConWeb.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/listen/MoreListen.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/adapter/LIstViewAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/ic_go.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_seracher.xml" />
         <option value="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/utils/ReadingConWeb.java" />
-        <option value="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/utils/Utils.java" />
-        <option value="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/modemanger/StartReadingAna.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/list_view_item.xml" />
         <option value="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/ReadingConWeb.java" />
@@ -3442,8 +3595,6 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/utils/Utils.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/adapter/ReadingAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/read_view_item.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/collect_item.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/listen/SearchFragmentListen.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/callback/FragmentCallback.java" />
@@ -3451,19 +3602,11 @@
         <option value="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/Bean/WebAppBean.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/ui/MyWebView.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/listen/RecyclerAdapterListen.java" />
-        <option value="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/ConnManager.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/callback/ActivityCallBack.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/fragment/seracher.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/fragment/fragmet_web.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/fragment/book_collect.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/SQLiteDataBase/MySQLite.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/adapter/OwnRecyclerViewAdpter.java" />
         <option value="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/Bean/BookListBean.java" />
-        <option value="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/modemanger/AnaModel.java" />
-        <option value="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/modemanger/StartAna.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/LoginApp.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/adapter/ListViewAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/SaveListItemData/ItemListDiata.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/readinglayout.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/test.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/APKFileCopyService.java" />
@@ -3471,6 +3614,20 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/ReadingActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/TestOther.java" />
         <option value="$PROJECT_DIR$/intentcore/build.gradle" />
+        <option value="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/modemanger/StartReadingAna.java" />
+        <option value="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/utils/Utils.java" />
+        <option value="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/modemanger/StartAna.java" />
+        <option value="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/modemanger/AnaModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/collect_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_seracher.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/fragment/book_collect.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/fragment/fragmet_web.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/listen/SearchFragmentListen.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/SaveListItemData/ItemListDiata.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/fragment/seracher.java" />
+        <option value="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/ConWeb.java" />
+        <option value="$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/ConnManager.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/LoginApp.java" />
       </list>
     </option>
   </component>
@@ -3488,7 +3645,33 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyMustProject" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="MyMustProject" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="MyMustProject" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="myrealstartswoop" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyMustProject" type="1abcf292:AndroidViewProjectNode" />
+              <item name="intentcore" type="feadf853:AndroidModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -3538,27 +3721,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="MyMustProject" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="MyMustProject" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="DEBUGGABLE_DEVICE" value="lava-t71_w-0123456789ABCDEF" />
+    <property name="DEBUGGABLE_DEVICE" value="meizu-meizu_c9_pro-818HZ2016G000B24" />
     <property name="DEBUGGABLE_PROCESS" value="com.miki.myrealstartswoop" />
     <property name="DEBUGGER_ID" value="Java" />
     <property name="SHOW_ALL_PROCESSES" value="true" />
@@ -3566,7 +3733,7 @@
     <property name="android.project.structure.last.selected" value="app" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="E:/AndroidStudioSDK" />
-    <property name="device.picker.selection" value="0123456789ABCDEF" />
+    <property name="device.picker.selection" value="818HZ2016G000B24" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/java" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
@@ -3600,9 +3767,8 @@
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
-        <option name="Make" enabled="false" />
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
@@ -3748,20 +3914,20 @@
       <window_info id="Build Variants" order="1" side_tool="true" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.26096824" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.31996974" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="6" />
       <window_info id="Captures" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.3289256" />
-      <window_info anchor="bottom" id="Logcat" order="1" weight="0.17377049" />
+      <window_info anchor="bottom" id="Logcat" order="1" weight="0.29392448" />
       <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50075644" side_tool="true" weight="0.32066116" />
-      <window_info anchor="bottom" id="Build" order="4" visible="true" weight="0.37438422" />
-      <window_info anchor="bottom" id="Android Profiler" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50226927" side_tool="true" weight="0.20689656" />
+      <window_info anchor="bottom" id="Build" order="4" sideWeight="0.49848714" weight="0.32840723" />
+      <window_info anchor="bottom" id="Android Profiler" order="5" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.3289256" />
       <window_info anchor="bottom" id="Run" order="8" weight="0.6958678" />
-      <window_info anchor="bottom" id="Debug" order="9" sideWeight="0.49924356" weight="0.52459013" />
+      <window_info anchor="bottom" id="Debug" order="9" sideWeight="0.4977307" visible="true" weight="0.14778325" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
@@ -3808,346 +3974,440 @@
   <component name="XDebuggerManager">
     <watches-manager>
       <configuration name="Remote">
-        <watch expression="cursor" />
+        <watch expression="input" />
       </configuration>
     </watches-manager>
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>list.get(0).entrySet().toArray()[0]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://E:/AndroidStudioSDK/sources/android-28/android/os/Handler.java">
+    <entry file="file://E:/AndroidStudioSDK/sources/android-28/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="790" selection-start-line="790" selection-end-line="790" />
+        <state relative-caret-position="32">
+          <caret line="2425" selection-start-line="2425" selection-end-line="2425" />
+          <folding>
+            <element signature="e#102112#102113#0" expanded="true" />
+            <element signature="e#102150#102151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/AndroidStudioSDK/sources/android-28/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+          <folding>
+            <element signature="e#3947#3948#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/Bean/BookListBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="e#1490#1491#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ljun20160606/okhttp/3.10.0/65232a9d12e280bc1eb940e08471570891210b7b/okhttp-3.10.0-sources.jar!/okhttp3/Headers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="256" selection-start-line="256" selection-end-line="256" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ljun20160606/okhttp/3.10.0/65232a9d12e280bc1eb940e08471570891210b7b/okhttp-3.10.0-sources.jar!/okhttp3/HttpUrl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="909" selection-start-line="909" selection-end-line="909" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ljun20160606/okhttp/3.10.0/65232a9d12e280bc1eb940e08471570891210b7b/okhttp-3.10.0-sources.jar!/okhttp3/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="176" selection-start-line="176" selection-end-line="176" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/AndroidStudioSDK/sources/android-28/android/app/Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7016" selection-start-line="7016" selection-end-line="7016" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/AndroidStudioSDK/sources/android-28/android/app/Instrumentation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="1218" selection-start-line="1218" selection-end-line="1218" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/AndroidStudioSDK/sources/android-28/android/app/ActivityThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="2814" selection-start-line="2814" selection-end-line="2814" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/AndroidStudioSDK/sources/android-28/android/os/Trace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="168" selection-start-line="168" selection-end-line="168" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ljun20160606/okhttp/3.10.0/65232a9d12e280bc1eb940e08471570891210b7b/okhttp-3.10.0-sources.jar!/okhttp3/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="176" selection-start-line="176" selection-end-line="176" />
+          <folding>
+            <element signature="e#6128#6129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ljun20160606/okhttp/3.10.0/65232a9d12e280bc1eb940e08471570891210b7b/okhttp-3.10.0-sources.jar!/okhttp3/ResponseBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="127" selection-start-line="127" selection-end-line="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/AndroidStudioSDK/sources/android-28/java/util/regex/Pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="1005" selection-start-line="1005" selection-end-line="1005" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/AndroidStudioSDK/sources/android-28/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/AndroidStudioSDK/sources/android-28/java/util/regex/Matcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="234" selection-start-line="234" selection-end-line="234" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.11.3/871302b15d8cee9bfb393c4f1d0386b17646d8d1/jsoup-1.11.3-sources.jar!/org/jsoup/Jsoup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="e#1880#1881#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.11.3/871302b15d8cee9bfb393c4f1d0386b17646d8d1/jsoup-1.11.3-sources.jar!/org/jsoup/nodes/Element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="362" selection-start-line="362" selection-end-line="362" />
+          <folding>
+            <element signature="e#12264#12265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ljun20160606/okhttp/3.10.0/65232a9d12e280bc1eb940e08471570891210b7b/okhttp-3.10.0-sources.jar!/okhttp3/internal/NamedRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.11.3/871302b15d8cee9bfb393c4f1d0386b17646d8d1/jsoup-1.11.3-sources.jar!/org/jsoup/nodes/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/utils/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/Bean/WebAppBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#464#465#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ljun20160606/okhttp/3.10.0/65232a9d12e280bc1eb940e08471570891210b7b/okhttp-3.10.0-sources.jar!/okhttp3/OkHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="392" selection-start-line="392" selection-end-line="392" />
+          <folding>
+            <element signature="e#13431#13432#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ljun20160606/okhttp/3.10.0/65232a9d12e280bc1eb940e08471570891210b7b/okhttp-3.10.0-sources.jar!/okhttp3/RealCall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="163" selection-start-line="163" selection-end-line="163" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ljun20160606/okhttp/3.10.0/65232a9d12e280bc1eb940e08471570891210b7b/okhttp-3.10.0-sources.jar!/okhttp3/Dispatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+          <folding>
+            <element signature="e#6727#6728#0" expanded="true" />
+            <element signature="e#6776#6777#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/collect_item.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
+        <state relative-caret-position="125">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
         </state>
       </provider>
       <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/adapter/ReadingAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-734">
-          <caret column="41" selection-start-column="41" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/AndroidStudioSDK/sources/android-28/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="112" column="19" selection-start-line="112" selection-start-column="19" selection-end-line="112" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_book_collect.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="200">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="42" />
         </state>
       </provider>
       <provider editor-type-id="android-designer2" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_seracher.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+        <state relative-caret-position="150">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#3513#5517#0" />
+            <element signature="e#5523#5835#0" />
+          </folding>
         </state>
       </provider>
-      <provider editor-type-id="android-manifest" />
+      <provider editor-type-id="android-designer2" />
     </entry>
-    <entry file="file://E:/AndroidStudioSDK/sources/android-28/android/view/View.java">
+    <entry file="file://$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/modemanger/StartReadingAna.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="6614" selection-start-line="6614" selection-end-line="6614" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/callback/ViewCallBack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        <state relative-caret-position="450">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/Bean/BeanBase.java">
+    <entry file="file://$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/modemanger/StartAna.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="782">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/AndroidStudioSDK/sources/android-28/android/net/Uri.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/callback/FragmentCallback.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="451" selection-start-line="451" selection-end-line="451" />
+        <state relative-caret-position="175">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/AndroidStudioSDK/sources/android-28/android/database/sqlite/SQLiteCursor.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/adapter/OwnRecyclerViewAdpter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/AndroidStudioSDK/sources/android-28/android/webkit/WebChromeClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="57" column="38" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/AndroidStudioSDK/sources/android-28/androidx/webkit/WebResourceErrorCompat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/AndroidStudioSDK/sources/android-28/android/webkit/WebView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="214" column="16" selection-start-line="214" selection-start-column="16" selection-end-line="214" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/AndroidStudioSDK/sources/android-28/android/webkit/WebViewClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/AndroidStudioSDK/sources/android-28/android/database/sqlite/SQLiteDatabase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="76" column="19" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/fragment/book_collect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="106" column="17" lean-forward="true" selection-start-line="106" selection-start-column="17" selection-end-line="106" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/ui/MyWebView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-970">
-          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/fragment/seracher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="165" selection-start-line="165" selection-end-line="165" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/fragment/fragmet_web.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="108" column="29" selection-start-line="108" selection-start-column="29" selection-end-line="108" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/adapter/PageViewPagerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="369">
+          <caret line="55" column="74" selection-start-line="55" selection-start-column="63" selection-end-line="55" selection-end-column="74" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/callback/ActivityCallBack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/callback/FragmentCallback.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/AndroidStudioSDK/sources/android-28/android/database/sqlite/SQLiteQuery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/SQLiteDataBase/MySQLite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="83" column="19" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/AndroidStudioSDK/sources/android-28/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="514" column="9" selection-start-line="514" selection-start-column="9" selection-end-line="514" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/listen/RecyclerAdapterListen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/adapter/OwnRecyclerViewAdpter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="56" column="13" lean-forward="true" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/Bean/BookListBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="58" column="26" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/modemanger/AnaModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/ReadingManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-445">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/ReadingConWeb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/ConnManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/Bean/WebAppBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/ConWeb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="59" column="24" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/readinglayout.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/adapter/ListViewAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="51" column="48" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/listen/SearchFragmentListen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/SaveListItemData/ItemListDiata.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="38" />
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/SaveListItemData/ListItemData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+        <state relative-caret-position="100">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#1429#1430#0" expanded="true" />
+            <element signature="e#1479#1480#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/fragment/fragmet_web.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1439">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/fragment/book_collect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="83" column="53" selection-start-line="83" selection-start-column="53" selection-end-line="83" selection-end-column="53" />
+          <folding>
+            <element signature="method#AsyThreaData#0;class#book_collect#0" />
+            <element signature="e#3685#4043#0" expanded="true" />
+            <element signature="e#4042#4043#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/SaveListItemData/ItemListDiata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/adapter/ListViewAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/SQLiteDataBase/MySQLite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/AndroidStudioSDK/sources/android-28/android/database/AbstractCursor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="258" selection-start-line="258" selection-end-line="258" />
+          <folding>
+            <element signature="e#7387#7388#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2c7fd27855437c6a02fab9213cc4770f/jars/classes.jar!/android/support/v7/widget/AppCompatImageButton.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/AndroidStudioSDK/sources/android-28/android/database/sqlite/SQLiteCursor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="165" selection-start-line="165" selection-end-line="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/AndroidStudioSDK/sources/android-28/android/database/AbstractWindowedCursor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/listen/SearchFragmentListen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/ReadingConWeb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#1190#1191#0" expanded="true" />
+            <element signature="e#1237#1238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/ReadingManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="44" column="26" lean-forward="true" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
+          <folding>
+            <element signature="e#795#796#0" expanded="true" />
+            <element signature="e#862#863#0" expanded="true" />
+            <element signature="e#1274#1275#0" expanded="true" />
+            <element signature="e#1314#1315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/ReadingActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="50" column="41" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/modemanger/AnaModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/fragment/seracher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="150" column="30" selection-start-line="150" selection-start-column="30" selection-end-line="150" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/ConWeb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="75" column="36" selection-start-line="75" selection-start-column="36" selection-end-line="75" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/ConnManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="70" column="12" lean-forward="true" selection-start-line="70" selection-start-column="12" selection-end-line="70" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/LoginApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="160" selection-start-line="160" selection-end-line="160" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intentcore/src/main/java/com/miki/intentcore/modemanger/StartAna.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/AndroidStudioSDK/sources/android-28/android/content/Context.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="127" column="28" selection-start-line="127" selection-start-column="28" selection-end-line="127" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/APKFileCopyService.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/APKFileCopyService.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/TestOther.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/miki/myrealstartswoop/ReadingActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="44" column="30" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+        <state relative-caret-position="2425">
+          <caret line="131" column="14" selection-start-line="131" selection-start-column="14" selection-end-line="131" selection-end-column="14" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#5042#5043#0" expanded="true" />
+            <element signature="e#5088#5089#0" expanded="true" />
+            <element signature="e#6140#6141#0" expanded="true" />
+            <element signature="e#6160#6161#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intentcore/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>

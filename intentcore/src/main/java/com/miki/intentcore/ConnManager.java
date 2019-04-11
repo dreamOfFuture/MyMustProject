@@ -64,7 +64,11 @@ public class ConnManager implements ConWeb.conWebCallBack{
             conWeb =conWebs.get(0);
         }
        try {
-           conWeb.makeGetcon(path);
+           if (AnaModel.anaModel!=-1&&!conWeb.ConWebTag){
+               conWeb.makeGetcon(path);
+           }else if (AnaModel.anaModel!=-1&& conWeb.ConWebTag){
+               conWebCallBack.conFail();
+           }
        } catch (MalformedURLException e) {
            return  false;
        }

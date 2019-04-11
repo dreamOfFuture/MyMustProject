@@ -24,20 +24,23 @@ public class SearchFragmentListen implements View.OnClickListener {
     private static EditText serachNumber;
     private static SearchFragmentListen searchFragmentListen;
 
-    public static SearchFragmentListen getListen(ListViewAdapter listAdapter, View view) {
+    public static void setListen(ListViewAdapter listAdapter, View view) {
+        if (searchFragmentListen == null) {
+            searchFragmentListen = new SearchFragmentListen();
+        }
+
         adapter = listAdapter;
         iSort = view.findViewById(R.id.book_list_icon);
         iCollect = view.findViewById(R.id.book_collect);
         serachNumber=view.findViewById(R.id.list_item_search_number);
         serachText=view.findViewById(R.id.list_item_text_search);
         iShowSort = view.findViewById(R.id.book_list_info);
+        iSort.setOnClickListener(searchFragmentListen);
+        iCollect.setOnClickListener(searchFragmentListen);
+        serachNumber.setOnClickListener(searchFragmentListen);
+        serachText.setOnClickListener(searchFragmentListen);
+        iShowSort.setOnClickListener(searchFragmentListen);
         dataInit(ItemListDiata.book_name);
-        if (searchFragmentListen == null) {
-            searchFragmentListen = new SearchFragmentListen();
-            return searchFragmentListen;
-        } else {
-            return searchFragmentListen;
-        }
     }
 
     @Override

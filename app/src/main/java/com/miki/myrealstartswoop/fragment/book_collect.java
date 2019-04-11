@@ -49,8 +49,8 @@ public class book_collect extends Fragment implements ActivityCallBack {
 
     @Override
     public void onResume() {
-        FragmentCallback callback = (FragmentCallback) activity;
-        callback.needDataUpdate();
+        // FragmentCallback callback = (FragmentCallback) activity;
+        // callback.needDataUpdate();
         super.onResume();
     }
 
@@ -94,7 +94,7 @@ public class book_collect extends Fragment implements ActivityCallBack {
                 }
                 List<ListItemData.TemData> list = ListItemData.getTemDataList();
                 list.clear();
-                for (int i = 0;i<cursor.getCount();i++){
+                do {
                     boolean con = false;
                     if (cursor.getInt(cursor.getColumnIndex(MySQLite.book_sort)) == 1)
                         con = true;
@@ -103,17 +103,16 @@ public class book_collect extends Fragment implements ActivityCallBack {
                             con, cursor.getInt(cursor.getColumnIndex(MySQLite.book_reading)),
                             cursor.getString(cursor.getColumnIndex(MySQLite.book_url)),
                             cursor.getString(cursor.getColumnIndex(MySQLite.book_web))));
-                    cursor.moveToNext();
-                }
+                }while (cursor.moveToNext());
                 db.close();
-                handler.post(new Runnable() {
+                handler.postDelayed(new Runnable() {
                     @Override
                     public void run() {
                         adpter = new OwnRecyclerViewAdpter(ListItemData.getTemDataList(), (FragmentCallback) activity);
                         recyclerView.setAdapter(adpter);
                         adpter.notifyDataSetChanged();
                     }
-                });
+                },100);//延时加载100毫秒避免fragment切换动画与adpter更新动画同步
             }
         }.start();
     }

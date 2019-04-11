@@ -17,6 +17,7 @@ import okhttp3.RequestBody;
 import okhttp3.Response;
 
 public class ConWeb {
+    public boolean ConWebTag = false;
     private  conWebCallBack conWebCallBack=null;
     interface  conWebCallBack{
         void conSucess(String text);
@@ -58,6 +59,7 @@ public class ConWeb {
     }
 
     public String makeGetcon(Uri path) throws MalformedURLException {
+        ConWebTag = true;
         final String[] text = {null};
         URL url = new URL(String.valueOf(path));
         final Request request = new Request.Builder()
@@ -71,6 +73,7 @@ public class ConWeb {
             @Override
             public void onFailure(Call call, IOException e) {
                   conWebCallBack.conFail();
+                  ConWebTag = false;
             }
 
             @Override
@@ -79,6 +82,7 @@ public class ConWeb {
                 String type = Utils.anaWebUnicode(str);
                 text[0] =new String(str,type);
                 conWebCallBack.conSucess(text[0]);
+                ConWebTag = false;
             }
         });
         if (text[0] != null) {
